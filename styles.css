@@ -1,0 +1,12 @@
+.newspaper__title {
+  font-family: 'IBM Plex Serif', serif;
+  text-align: center;
+}
+
+.article {
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.article__title {
+  font-family: 'Tenor Sans', sans-serif;
+}
